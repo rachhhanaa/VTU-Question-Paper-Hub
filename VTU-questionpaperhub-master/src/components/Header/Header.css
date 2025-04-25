@@ -1,0 +1,145 @@
+.header {
+    min-height: 100vh;
+    display: flex; /* Enable flexbox layout */
+    justify-content: center; /* Center the content */
+    align-items: center; /* Center items vertically */
+}
+
+.header__content {
+    display: flex; /* Use flex to arrange children side by side */
+    flex-direction: row; /* Align children in a row */
+    min-height: calc(100vh - 106px);
+    width: 100%; /* Make sure it uses full width */
+}
+
+.header__content--left {
+    width: 50%; /* Adjust width as needed */
+    padding: 2rem; /* Add some padding for better spacing */
+}
+
+.header__content--right {
+    width: 50%; /* Adjust width as needed */
+    text-align: left;
+    padding: 2rem; /* Add some padding for better spacing */
+}
+
+.header__title {
+    font-size: 4.1rem;
+    line-height: 1.2;
+}
+
+.header__content .para__text {
+    padding: 3.6rem 0;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+@media(min-width: 992px) {
+    .header__content {
+        flex-direction: row; /* Ensure row layout on larger screens */
+    }
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+
+/* Additional styles... */
+.login-container {
+    background-color: #edecf0;
+    border-radius: 8px;
+    box-shadow: rgb(31 31 31 / 17%) 0px -23px 25px 0px inset,
+      rgba(235, 230, 230, 0.23) 0px -36px 30px 0px inset,
+      rgba(225, 220, 220, 0.1) 0px -79px 40px 0px inset, rgba(218, 187, 187, 0.06) 0px 2px 1px,
+      rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(124, 122, 122, 0.09) 0px 8px 4px,
+      rgba(176, 163, 163, 0.09) 0px 16px 8px, rgba(103, 99, 99, 0.09) 0px 32px 16px;
+    padding: 10px;
+    max-width: 450px;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .heading {
+    color: #161515;
+    font-weight: 500;
+    font-size: 40px;
+    margin-bottom: 5px;
+  }
+  
+  .paragraph {
+    color: #151515;
+    font-weight: 400;
+    font-size: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .input-group {
+    margin-bottom: 20px;
+  }
+  
+  .input-group input {
+    background: none;
+    border: 1px solid #353535;
+    padding: 15px 23px;
+    font-size: 16px;
+    border-radius: 8px;
+    color: #121212;
+    width: 100%;
+    box-shadow: rgb(136 136 136 / 17%) 0px -23px 25px 0px inset,
+      rgb(81 81 81 / 23%) 0px -36px 30px 0px inset,
+      rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+      rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px,
+      rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  }
+  
+  .input-group input:focus {
+    border-color: #0173ed;
+    outline: none;
+  }
+  
+  button {
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    background-color: #0173ed;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0173ed;
+  }
+  
+  .bottom-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    color: #101010;
+    font-size: 15px;
+    font-weight: 400;
+  }
+  
+  .bottom-text a {
+    color: #0173ed;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .bottom-text a:hover {
+    color: #3f95f2;
+  }
+  

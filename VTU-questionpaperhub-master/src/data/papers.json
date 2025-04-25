@@ -1,0 +1,540 @@
+[
+  {
+    "semester": 1,
+    "scheme": "2021",
+    "subject": "21MAT11",
+    "paperUrl": "https://drive.google.com/file/d/1cA7CUd8CQLMejW0RQpgWkIV54ZZTpGPL/view?usp=sharing"
+  },
+  {
+    "semester": 1,
+    "scheme": "2022",
+    "subject": "BMATS101",
+    "paperUrl": "https://drive.google.com/file/d/1cA7CUd8CQLMejW0RQpgWkIV54ZZTpGPL/view?usp=sharing"
+
+  },
+  {
+    "semester": 1,
+    "scheme": "2021",
+    "subject": "21CHE12",
+    "paperUrl": "https://drive.google.com/file/d/1UtUTrNVW7pV3qePBC_RIMUTD2-eAW5IX/view?usp=sharing"
+  },
+  {
+    "semester": 1,
+    "scheme": "2022",
+    "subject": "BCHES102",
+    "paperUrl": "https://drive.google.com/file/d/1UtUTrNVW7pV3qePBC_RIMUTD2-eAW5IX/view?usp=sharing"
+  },
+  {
+    "semester": 1,
+    "scheme": "2021",
+    "subject": "21PSP13",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 1,
+    "scheme": "2022",
+    "subject": "BESCK104",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 1,
+    "scheme": "2021",
+    "subject": "21ELN14",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 1,
+    "scheme": "2022",
+    "subject": "BPLCK105A",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 1,
+    "scheme": "2021",
+    "subject": "21EME15",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 1,
+    "scheme": "2021",
+    "subject": "21EGH18",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 1,
+    "scheme": "2022",
+    "subject": "BENGK106",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 2,
+    "scheme": "2021",
+    "subject": "21MAT21",
+    "paperUrl": "https://drive.google.com/file/d/1LJpYkv_Jl0QjQYSB4mrhUf5Gzqpo2Ash/view?usp=sharing"
+  },
+  {
+    "semester": 2,
+    "scheme": "2022",
+    "subject": "BMATS201",
+    "paperUrl": "https://drive.google.com/file/d/1LJpYkv_Jl0QjQYSB4mrhUf5Gzqpo2Ash/view?usp=sharing"
+  },
+  {
+    "semester": 2,
+    "scheme": "2021",
+    "subject": "21PHY22",
+    "paperUrl": "https://drive.google.com/file/d/1EkXVRPLD2Mbi1JP4tey88mOcbDgfeFji/view?usp=sharing"
+  },
+  {
+    "semester": 2,
+    "scheme": "2022",
+    "subject": "BPHYS202",
+    "paperUrl": "https://drive.google.com/file/d/1EkXVRPLD2Mbi1JP4tey88mOcbDgfeFji/view?usp=sharing"
+  },
+  {
+    "semester": 2,
+    "scheme": "2021",
+    "subject": "21ELE23",
+    "paperUrl": "https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 2,
+    "scheme": "2022",
+    "subject": "BPOPS203",
+    "paperUrl":"https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 2,
+    "scheme": "2021",
+    "subject": "21CIV24",
+    "paperUrl": "https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 2,
+    "scheme": "2022",
+    "subject": "BESCK204D",
+    "paperUrl":"https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 2,
+    "scheme": "2021",
+    "subject": "21EVNL25",
+    "paperUrl": "https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 2,
+    "scheme": "2022",
+    "subject": "BETCK205H",
+    "paperUrl":"https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 2,
+    "scheme": "2021",
+    "subject": "21EGH28",
+    "paperUrl": "https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 2,
+    "scheme": "2022",
+    "subject": "BPWSK206",
+    "paperUrl":"https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 2,
+    "scheme": "2022",
+    "subject": "BICOK207",
+    "paperUrl":"https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 2,
+    "scheme": "2021",
+    "subject": "21SFH29",
+    "paperUrl": "https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 2,
+    "scheme": "2022",
+    "subject": "BSFHK258",
+    "paperUrl":"https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 3,
+    "scheme": "2021",
+    "subject": "21MATH31",
+    "paperUrl": "https://drive.google.com/file/d/1Q24XLhVrnc5ACdrSd8UDnKxY9y-uAJbb/view?usp=sharing"
+  },
+  {
+    "semester": 3,
+    "scheme": "2022",
+    "subject": "BCS301",
+    "paperUrl": "https://drive.google.com/file/d/1xdJcU545nBNPPc2NXf2C9MGi-D8k5Jkm/view?usp=sharing"
+  },
+  {
+    "semester": 3,
+    "scheme": "2021",
+    "subject": "21MATDIP31",
+    "paperUrl": "https://drive.google.com/file/d/1i6bORC4tlbKAwQSXI99GOm3kDtjdsWXo/view?usp=sharingf"
+  },
+  {
+    "semester": 3,
+    "scheme": "2022",
+    "subject": "BCS302",
+    "paperUrl": "https://drive.google.com/file/d/1i6bORC4tlbKAwQSXI99GOm3kDtjdsWXo/view?usp=sharing"
+  },
+  {
+    "semester": 3,
+    "scheme": "2021",
+    "subject": "21CS32",
+    "paperUrl": "https://drive.google.com/file/d/1J3RAj22iXNTo0smkB6a1hTgG9o1O3OIR/view?usp=sharing"
+  },
+  {
+    "semester": 3,
+    "scheme": "2022",
+    "subject": "BCS303",
+    "paperUrl": "https://drive.google.com/file/d/1J3RAj22iXNTo0smkB6a1hTgG9o1O3OIR/view?usp=sharing"
+  },
+  {
+    "semester": 3, 
+    "scheme": "2021",
+    "subject": "21CS33",
+    "paperUrl": "https://drive.google.com/file/d/1PDAA4jjDzLNOU9LW1ldq74wl4lOvydK_/view?usp=sharing",
+    "paperUrl2":"https://drive.google.com/file/d/1EkXVRPLD2Mbi1JP4tey88mOcbDgfeFji/view?usp=sharing"
+  },
+  {
+    "semester": 3,
+    "scheme": "2022",
+    "subject": "BCS304",
+    "paperUrl": "https://drive.google.com/file/d/1PDAA4jjDzLNOU9LW1ldq74wl4lOvydK_/view?usp=sharing"
+  },
+  {
+    "semester": 3,
+    "scheme": "2021",
+    "subject": "21CS34",
+    "paperUrl": "https://drive.google.com/file/d/1dMte1Q3xoQMRjGoxoyGDKurbvfpxbUBK/view?usp=sharing"
+  },
+  {
+    "semester": 3,
+    "scheme": "2022",
+    "subject": "BCS306A",
+    "paperUrl": "https://drive.google.com/file/d/1dMte1Q3xoQMRjGoxoyGDKurbvfpxbUBK/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2021",
+    "subject": "21CS41",
+    "paperUrl": "https://drive.google.com/file/d/1d7cXFU92FNn13SZuyLx0GGW9363pk3D3/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2022",
+    "subject": "BCS401",
+    "paperUrl": "https://drive.google.com/file/d/1NvjF5E6XZs07TSALBn7n1cacnUgUEbY8/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2021",
+    "subject": "21MATHDIP41",
+    "paperUrl": "https://drive.google.com/file/d/1v0QGd-BM7x0jJgW4wB80AON_Udhl7MWU/view?usp=sharing",
+    "paperUrl2":"https://drive.google.com/file/d/1O8nczIzLynnIgwQnokTFU0dzwHp1TG9h/view?usp=sharing",
+    "paperUrl3":"https://drive.google.com/file/d/1ysKRpjMz-5S8yeqwkodaGBDqGT3iZwso/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2022",
+    "subject": "BCS402",
+    "paperUrl": "https://drive.google.com/file/d/1dqI5iyZ0Bwtkrl7UdI2Ycdwy_3NQvugd/view?usp=sharing",
+    "paperUrl2":"https://drive.google.com/file/d/19hWdMmQfQE8C_eXDWa74g7f-_qNZLmiU/view?usp=sharing",
+    "paperUrl3":"https://drive.google.com/file/d/1b7DOx1M3dOSnJRk2-guhNdjtsnJjbIgt/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2021",
+    "subject": "21CS42",
+    "paperUrl": "https://drive.google.com/file/d/1MqbnGnpq_jXUarNgFwsJIqFojJpPxrhS/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2022",
+    "subject": "BCS403",
+    "paperUrl": "https://drive.google.com/file/d/1MqbnGnpq_jXUarNgFwsJIqFojJpPxrhS/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2021",
+    "subject": "21CS34",
+    "paperUrl": "https://drive.google.com/file/d/1MW4BokTZlBaaZfMnay2_qUBcl-6HV10s/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2022",
+    "subject": "BCS405B",
+    "paperUrl": "https://drive.google.com/file/d/1bHRRHcA3c2ZCFJO7FXkmS4eAMver3EC7/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2021",
+    "subject": "21CS44",
+    "paperUrl": "https://drive.google.com/file/d/1knGMWmLXpIIvpSHn-P8jj13rTPIYKCcL/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2022",
+    "subject": "BBOC407",
+    "paperUrl": "https://drive.google.com/file/d/1knGMWmLXpIIvpSHn-P8jj13rTPIYKCcL/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2021",
+    "subject": "21BE45",
+    "paperUrl": "https://drive.google.com/file/d/1UtUTrNVW7pV3qePBC_RIMUTD2-eAW5IX/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2021",
+    "subject": "21CIP47",
+    "paperUrl": "https://drive.google.com/file/d/1UtUTrNVW7pV3qePBC_RIMUTD2-eAW5IX/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2021",
+    "subject": "21CIP47",
+    "paperUrl": "https://drive.google.com/file/d/1UtUTrNVW7pV3qePBC_RIMUTD2-eAW5IX/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2021",
+    "subject": "21UH49",
+    "paperUrl": "https://drive.google.com/file/d/1UtUTrNVW7pV3qePBC_RIMUTD2-eAW5IX/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2021",
+    "subject": "21CSL481",
+    "paperUrl": "https://drive.google.com/file/d/1UtUTrNVW7pV3qePBC_RIMUTD2-eAW5IX/view?usp=sharing"
+  },
+  {
+    "semester": 4,
+    "scheme": "2022",
+    "subject": "BUHK408",
+    "paperUrl": "https://drive.google.com/file/d/1UtUTrNVW7pV3qePBC_RIMUTD2-eAW5IX/view?usp=sharing"
+  },
+  {
+    "semester": 5,
+    "scheme": "2021",
+    "subject": "21CS51",
+    "paperUrl": "https://drive.google.com/file/d/1cQ6iEhfFrIl25WrELWTM4IELcjS5zOcp/view?usp=sharing"
+  },
+  {
+    "semester": 5,
+    "scheme": "2022",
+    "subject": "BCS501",
+    "paperUrl": "https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 5,
+    "scheme": "2021",
+    "subject": "21CS52",
+    "paperUrl": "https://example.com/papers/sem5_2019_daa.pdf"
+  },
+  {
+    "semester": 5,
+    "scheme": "2022",
+    "subject": "BCS502",
+    "paperUrl": "https://example.com/papers/sem5_2020_daa.pdf"
+  },
+  {
+    "semester": 5,
+    "scheme": "2021",
+    "subject": "21CS53",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 5,
+    "scheme": "2022",
+    "subject": "BCS503",
+    "paperUrl": "https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 5,
+    "scheme": "2021",
+    "subject": "21CS53",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 5,
+    "scheme": "2022",
+    "subject": "BCS515B",
+    "paperUrl": "https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 5,
+    "scheme": "2021",
+    "subject": "21CS54",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 5,
+    "scheme": "2022",
+    "subject": "BRMK557",
+    "paperUrl": "https://drive.google.com/file/d/1xE3F-isVVtnEx-qyh-T4rRmVCtf3pvQl/view?usp=sharing"
+  },
+  {
+    "semester": 5,
+    "scheme": "2021",
+    "subject": "21RMI56",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 5,
+    "scheme": "2021",
+    "subject": "21CIV57",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 5,
+    "scheme": "2021",
+    "subject": "21CSL581",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 5,
+    "scheme": "2022",
+    "subject": "BCS508",
+    "paperUrl": "https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 6,
+    "scheme": "2021",
+    "subject": "21CS644 ",
+    "paperUrl": "https://drive.google.com/file/d/1b1zIn8Y0CbQb-vucjBIa-uzjpGfBOlYd/view?usp=sharing"
+  },
+  {
+    "semester": 6,
+    "scheme": "2022",
+    "subject": "BCS601 ",
+    "paperUrl": "https://drive.google.com/file/d/1b1zIn8Y0CbQb-vucjBIa-uzjpGfBOlYd/view?usp=sharing"
+  },
+  {
+    "semester": 6,
+    "scheme": "2021",
+    "subject": "21EE652 ",
+    "paperUrl": "https://drive.google.com/file/d/1J-A0J3dymnjHdEewJNL7XFO8k2hH8fhl/view?usp=sharing"
+  },
+  {
+    "semester": 6,
+    "scheme": "2022",
+    "subject": "BCS602 ",
+    "paperUrl": "https://drive.google.com/file/d/1-bYAheqf8jN9xmwDydb94VLORJ4PvaRG/view?usp=sharing"
+  },
+  {
+    "semester": 6,
+    "scheme": "2021",
+    "subject": "21CS61",
+    "paperUrl": "https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 6,
+    "scheme": "2022",
+    "subject": "BCS613x",
+    "paperUrl":"https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 6,
+    "scheme": "2021",
+    "subject": "21CS62",
+    "paperUrl": "https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 6,
+    "scheme": "2021",
+    "subject": "21CS63",
+    "paperUrl": "https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 6,
+    "scheme": "2021",
+    "subject": "21INT68",
+    "paperUrl": "https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 6,
+    "scheme": "2022",
+    "subject": "BCS654x",
+    "paperUrl":"https://example.com/papers/sem5_2020_dbms.pdf"
+  },
+  {
+    "semester": 7,
+    "scheme": "2021",
+    "subject": "21CS71",
+    "paperUrl": "https://drive.google.com/file/d/1o029CzDffiGv0FuxlWV7hqEZm7r4r9I7/view?usp=sharing"
+  },
+  {
+    "semester": 7,
+    "scheme": "2022",
+    "subject": "BCS701",
+    "paperUrl": "https://drive.google.com/file/d/1o029CzDffiGv0FuxlWV7hqEZm7r4r9I7/view?usp=sharing"
+  },
+  {
+    "semester": 7,
+    "scheme": "2021",
+    "subject": "21CS72",
+    "paperUrl": "https://drive.google.com/file/d/1H35qY_LDvYiICFoFtfaxYiiQBPBpT86D/view?usp=sharing"
+  },
+  {
+    "semester": 7,
+    "scheme": "2022",
+    "subject": "BCS702",
+    "paperUrl": "https://drive.google.com/file/d/1H35qY_LDvYiICFoFtfaxYiiQBPBpT86D/view?usp=sharing"
+  },
+  {
+    "semester": 7,
+    "scheme": "2022",
+    "subject": "BCS702",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 7,
+    "scheme": "2021",
+    "subject": "21CS735",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 7,
+    "scheme": "2022",
+    "subject": "BCS703",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 7,
+    "scheme": "2021",
+    "subject": "21CS744",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 7,
+    "scheme": "2022",
+    "subject": "BCS714X",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 7,
+    "scheme": "2021",
+    "subject": "21ME751",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 7,
+    "scheme": "2022",
+    "subject": "BCS755X",
+    "paperUrl": "https://example.com/papers/sem5_2019_dbms.pdf"
+  },
+  {
+    "semester": 8,
+    "scheme": "2021"
+    
+  },
+  {
+    "semester": 8,
+    "scheme": "2022"
+    
+  }
+]

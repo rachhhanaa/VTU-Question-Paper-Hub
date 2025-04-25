@@ -1,0 +1,29 @@
+/* 
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding:5px;
+  }
+  
+  .nav-links {
+    display: flex;
+    list-style-type: none;
+  }
+  
+  @media (max-width: 768px) {
+    .nav-links {
+      display: none;  
+    }
+  }
+  
+ 
+  .home-content {
+    margin: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .home-content {
+      margin: 10px;  
+    }
+  }
+   */
